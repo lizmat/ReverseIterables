@@ -1,0 +1,28 @@
+{
+  "auth": "zef:lizmat",
+  "authors": [
+    "Elizabeth Mattijsen"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+    "ForwardIterables:ver<0.0.3+>:auth<zef:lizmat"
+  ],
+  "description": "turn two or more Iterables into a single iterator reversing",
+  "license": "Artistic-2.0",
+  "name": "ReverseIterables",
+  "perl": "6.d",
+  "provides": {
+    "ReverseIterables": "lib/ReverseIterables.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "https://github.com/lizmat/ReverseIterables.git",
+  "tags": [
+    "ITERABLE",
+    "NAUGHTY"
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
