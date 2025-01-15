@@ -6,7 +6,7 @@
   "build-depends": [
   ],
   "depends": [
-    "ForwardIterables:ver<0.0.3+>:auth<zef:lizmat"
+    "ForwardIterables:ver<0.0.3+>:auth<zef:lizmat>"
   ],
   "description": "turn two or more Iterables into a single iterator reversing",
   "license": "Artistic-2.0",
