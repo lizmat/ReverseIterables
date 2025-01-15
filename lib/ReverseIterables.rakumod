@@ -1,6 +1,6 @@
 # Hopefully part of Raku core at some point
 use nqp;
-use ForwardIterables:ver<0.0.2+>:auth<zef:lizmat>;
+use ForwardIterables:ver<0.0.3+>:auth<zef:lizmat>;
 
 my class ReverseIterator does Iterator {
     has     $!reified;
